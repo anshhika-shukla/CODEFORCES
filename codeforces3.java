@@ -1,7 +1,7 @@
 
 
 import java.util.Scanner;
-public class codeforces3    //contest 58 problem A, Chat room 
+public class codeforces3    // problem A 58, Chat room 
 {
 public static void main(String[] args)
 {
