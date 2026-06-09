@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class codeforces2 {  //contest 133 problem A, HQ9+
+public class codeforces2 {  //Problem A, HQ9+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String p = sc.next();
