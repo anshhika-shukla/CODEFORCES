@@ -1,6 +1,6 @@
 
 import java.util.*;
-public class codeforces5          //problem 2204,Right Maximum
+public class codeforces5          //Problem 2204 ,Right Maximum
 {
     public static void main(String args[]) 
     {
