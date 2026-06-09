@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces1      //problemA 2204 , Passing the Ball
+public class codeforces1      //Problem 2204 , Passing the Ball
 {
     public static void main(String args[])
     {
