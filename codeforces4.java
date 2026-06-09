@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces4 {   //problem B 2209,Array
+public class codeforces4 {   //Problem  2209,Array
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
