@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class codeforces6    // problem 2153,Circle of Apple Trees
+public class codeforces6    //Problem 2153,Circle of Apple Trees
 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
