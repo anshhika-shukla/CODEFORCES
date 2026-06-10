@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class codeforces8 {         //problem 4, Watermelon
+public class codeforces8 {         //Problem 4, Watermelon
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
