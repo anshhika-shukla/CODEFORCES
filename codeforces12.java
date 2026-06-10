@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces12            //problem 344, Magnets
+public class codeforces12            //Problem 344, Magnets
 {
     public static void main(String args[])
     {
