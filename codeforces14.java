@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces14          //Problem 1806,Walking Master
+public class codeforces14          //Problem 1806, Walking Master
 {
     public static void main(String args[])
     {
