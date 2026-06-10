@@ -1,7 +1,7 @@
 
 
 import java.util.*;
-public class codeforces11  //problem 2210, A Simple Sequencea
+public class codeforces11  //Problem 2210, A Simple Sequencea
 {
     public static void main(String args[])
     {
