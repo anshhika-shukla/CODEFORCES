@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces7   //problem 61,. Ultra-Fast Mathematician
+public class codeforces7   //Problem 61,. Ultra-Fast Mathematician
 {
     public static void main(String args[])
     {
