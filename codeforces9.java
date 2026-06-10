@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces9          //problem 2070,FizzBuzz Remixed
+public class codeforces9          //Problem 2070,FizzBuzz Remixed
 {
     public static void main(String args[])
     {
