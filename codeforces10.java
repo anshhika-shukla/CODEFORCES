@@ -1,7 +1,7 @@
 
 
 import java.util.*;
-public class codeforces10 {     //problem 1512,  Spy Detected!
+public class codeforces10 {     //Problem 1512,  Spy Detected!
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
