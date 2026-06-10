@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces13     // problem 1899,Game with Integers
+public class codeforces13     //Problem 1899,Game with Integers
 {
     public static void main(String args[])
     {
