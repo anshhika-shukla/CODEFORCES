@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces18             //problem 2218,The 67th Integer Problem
+public class codeforces18             //Problem 2218,The 67th Integer Problem
 {
     public static void main(String args[]) 
     {
