@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces16          //problem 1987, Upload More RAM
+public class codeforces16          //Problem 1987, Upload More RAM
 {
     public static void main(String args[]) 
     {
