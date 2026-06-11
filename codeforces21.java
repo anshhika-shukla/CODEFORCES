@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces21         //problem 1303A,Erasing Zeroes
+public class codeforces21         //Problem 1303A,Erasing Zeroes
 {
     public static void main(String args[]) 
     {
