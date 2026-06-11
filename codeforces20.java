@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces20                 //problem 1807,Plus or Minus
+public class codeforces20                 //Problem 1807, Plus or Minus
 {
     public static void main(String[] args)
     {
