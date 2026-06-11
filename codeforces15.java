@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces15                     //problem 1487,Pythagorean Triples
+public class codeforces15                     //Problem 1487,Pythagorean Triples
 {
     public static void main(String args[])
     {
