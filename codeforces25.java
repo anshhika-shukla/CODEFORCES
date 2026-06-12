@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class codeforces25        //problem 492A,Vanya and Cubes
+public class codeforces25        //Problem 492A,Vanya and Cubes
 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
