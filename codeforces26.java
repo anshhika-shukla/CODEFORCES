@@ -1,7 +1,7 @@
-// Once I am done , I will be gone , You won't see me for a while
+
 
 import java.util.*;
-public class codeforces26      //problem2220, Blocked
+public class codeforces26      //Problem2220, Blocked
 {
     public static void main(String args[])
     {
