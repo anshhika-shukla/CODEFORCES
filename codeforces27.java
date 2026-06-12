@@ -1,7 +1,7 @@
-// Once I am done, I will be gone, You won't see me for a while.
+
 
 import java.util.*;
-public class codeforces27    //problem 450A,Jzzhu and Children
+public class codeforces27    //Problem 450A,Jzzhu and Children
 {
     public static void main(String args[])
     {
