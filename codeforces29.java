@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class codeforces29   //problem 479, Expression
+public class codeforces29   //Problem 479, Expression
 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
