@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class codeforces30         //problem 705A, Hilk
+public class codeforces30         //Problem 705A, Hulk
 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
