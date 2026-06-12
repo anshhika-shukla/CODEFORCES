@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces24     //problem 731A, Night at the Museum
+public class codeforces24     //Problem 731A, Night at the Museum
 {
     public static void main(String args[])
     {
