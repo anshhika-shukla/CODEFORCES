@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces31   //problem 2093,Ideal Generator
+public class codeforces31   //Problem 2093,Ideal Generator
 {
     public static void main(String args[])
     {
