@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class codeforces39  // problem 318,B. Strings of Power
+public class codeforces39  //Problem 318,B. Strings of Power
  {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
