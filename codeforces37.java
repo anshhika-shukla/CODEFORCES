@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class codeforces37   //problem 214,A. System of Equations
+public class codeforces37   //Problem 214,A. System of Equations
 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
