@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class codeforces40       //problem 337,A. Puzzles
+public class codeforces40       //Problem 337,A. Puzzles
 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
