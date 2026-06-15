@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class codeforces35    //problem2225,A Number Between Two Others   
+public class codeforces35    //Problem 2225,A Number Between Two Others   
 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
