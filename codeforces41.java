@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class codeforces41          //problem 810,A. Straight «A»
+public class codeforces41          //Problem 810,A. Straight «A»
 {
     public static void main(String[] args)
     {
