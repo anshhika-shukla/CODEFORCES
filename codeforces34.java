@@ -1,7 +1,7 @@
 
 
 import java.util.*;
-public class codeforces34    //problem 2211,C1. Equal Multisets (Easy Version)
+public class codeforces34    //Problem 2211,C1. Equal Multisets (Easy Version)
 {
     public static void main(String args[]) 
     {
