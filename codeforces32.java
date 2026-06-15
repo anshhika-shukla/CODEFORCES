@@ -1,6 +1,7 @@
 import java.util.*;
 
-public class codeforces32   //problem 2202, Parkour Design {
+public class codeforces32   //Problem 2202, Parkour Design
+    {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
