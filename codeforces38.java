@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class codeforces38         //problem 2163,A. Souvlaki VS. Kalamaki
+public class codeforces38         //Problem 2163,A. Souvlaki VS. Kalamaki
 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
