@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces23         //problem 749,A. Bachgold Problem
+public class codeforces23         //Problem 749,A. Bachgold Problem
  {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
