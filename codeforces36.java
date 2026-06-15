@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces36       //problem 2225, B. Alternating String
+public class codeforces36       //Problem 2225, B. Alternating String
 {
     public static void main(String args[]) 
     {
