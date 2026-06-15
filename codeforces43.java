@@ -1,7 +1,7 @@
 
 
 import java.util.*;
-public class codeforces43             //problem 2227,B. Party Monster
+public class codeforces43             //Problem 2227,B. Party Monster
 {
     public static void main(String args[])
     {
