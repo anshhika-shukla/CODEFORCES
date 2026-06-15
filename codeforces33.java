@@ -1,7 +1,7 @@
 
 
 import java.util.*;
-public class codeforces33       // Problem 1081,Definite Game
+public class codeforces33       // Problem 1081, Definite Game
 {
     public static void main(String args[]) 
     {
