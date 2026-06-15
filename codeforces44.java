@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class codeforces44         //problem 12,A. Super Agent
+public class codeforces44         //Problem 12,A. Super Agent
 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
