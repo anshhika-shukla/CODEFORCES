@@ -1,7 +1,7 @@
 
 
 import java.util.*;
-public class codeforces46        //problem 2091,C. Combination Lock
+public class codeforces46        //Problem 2091,C. Combination Lock
 {
     public static void main(String args[]) 
     {
