@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class codeforces48    //problem 2217,A. The Equalizer
+public class codeforces48    //Problem 2217,A. The Equalizer
  {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
