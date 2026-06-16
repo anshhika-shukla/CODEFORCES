@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class codeforces50          //problem 2193,C. Replace and Sum
+public class codeforces50          //Problem 2193,C. Replace and Sum
 {
 
     public static void main(String[] args) {
