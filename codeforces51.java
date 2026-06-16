@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class codeforces51    //problem 2140,A. Shift Sort
+public class codeforces51    //Problem 2140,A. Shift Sort
 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
