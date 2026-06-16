@@ -1,7 +1,7 @@
 
 
 import java.util.*;
-public class codeforces45            //problem 1353,B. Two Arrays And Swaps
+public class codeforces45            //Problem 1353,B. Two Arrays And Swaps
 {
     public static void main(String args[]) 
     {
