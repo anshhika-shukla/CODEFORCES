@@ -1,7 +1,7 @@
 
 
 import java.util.*;
-public class codeforces52      //problem 2200,A. Eating Game
+public class codeforces52      //Problem 2200,A. Eating Game
 {
     public static void main(String args[]) 
     {
