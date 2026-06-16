@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class codeforces49      //problem 2148,A. Sublime Sequence
+public class codeforces49      //Problem 2148,A. Sublime Sequence
 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
