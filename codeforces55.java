@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces55     //problem 935,A. Fafa and his Company
+public class codeforces55     //Problem 935,A. Fafa and his Company
 {
     public static void main(String args[]) 
     {
