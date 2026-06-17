@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class codeforces58       //problem 2224,A. Zhily and Array Operating
+public class codeforces58       //Problem 2224,A. Zhily and Array Operating
 {
 
     public static void main(String[] args) {
