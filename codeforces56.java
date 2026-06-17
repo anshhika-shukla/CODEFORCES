@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces56              //problem 1720,A. Burenka Plays with Fractions
+public class codeforces56              //Problem 1720,A. Burenka Plays with Fractions
 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
