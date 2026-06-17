@@ -1,6 +1,6 @@
 
 import java.util.*;
-public class codeforces59     //problem 1368,A. C+=
+public class codeforces59     //Problem 1368,A. C+=
 {
     public static void main(String args[]) 
     {
