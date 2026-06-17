@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces53      //problem
+public class codeforces53      
 {
     public static void main(String args[])
     {
