@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces60    //problem 1996,A. Legs
+public class codeforces60    //Problem 1996,A. Legs
 {
     public static void main(String args[]) {
 
