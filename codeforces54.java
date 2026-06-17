@@ -1,7 +1,7 @@
 
 
 import java.util.*;
-public class codeforces54       //problem 894,A. QAQ
+public class codeforces54       //Problem 894,A. QAQ
 {
     public static void main(String args[]) 
     {
