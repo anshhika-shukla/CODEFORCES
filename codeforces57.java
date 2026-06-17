@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class codeforces57      //problem 1535,A. Fair Playoff
+public class codeforces57      //Problem 1535,A. Fair Playoff
 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
