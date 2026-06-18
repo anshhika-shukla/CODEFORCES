@@ -1,7 +1,7 @@
 
 
 import java.util.*;
-public class codeforces66   //problem 1360,B. Honest Coach
+public class codeforces66   //Problem 1360,B. Honest Coach
 {
     public static void main(String args[]) 
     {
