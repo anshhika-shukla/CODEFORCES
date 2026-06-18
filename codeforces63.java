@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces63    //problem 1327,A. Sum of Odd Integers
+public class codeforces63    //Problem 1327,A. Sum of Odd Integers
 {
     public static void main(String args[]) 
 {
