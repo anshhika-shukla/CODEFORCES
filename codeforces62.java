@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class codeforces62     //problem 514,A. Chewbaсca and Number
+public class codeforces62     //Problem 514,A. Chewbaсca and Number
 {
     public static void main(String[] args) {
 
