@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces64    //problem 1371,A. Magical Sticks
+public class codeforces64    //Problem 1371,A. Magical Sticks
 {
     public static void main(String args[]) 
     {
