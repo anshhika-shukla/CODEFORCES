@@ -1,6 +1,6 @@
 
 import java.util.*;
-public class codeforces65   //problem 1807,B. Grab the Candies
+public class codeforces65   //Problem 1807,B. Grab the Candies
 {
     public static void main(String args[])
     {
