@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class codeforces90         //problem 1514,B. AND 0, Sum Big
+public class codeforces90         //Problem 1514,B. AND 0, Sum Big
 {
     static final long MOD = 1000000007L;
 
