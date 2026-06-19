@@ -1,6 +1,6 @@
 
 import java.util.*;
-public class codeforces69     //problem 1971,A. My First Sorting Problem
+public class codeforces69     //Problem 1971,A. My First Sorting Problem
 {
     public static void main(String args[]) 
     {
