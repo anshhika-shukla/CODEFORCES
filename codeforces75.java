@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces75   //problem 105231,A. Maliang Learning Painting
+public class codeforces75   //Problem 105231,A. Maliang Learning Painting
 {
     public static void main(String args[])
     {
