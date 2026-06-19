@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces73    //problem 1676,B. Equal Candies
+public class codeforces73    //Problem 1676,B. Equal Candies
 {
     public static void main(String args[])
     {
