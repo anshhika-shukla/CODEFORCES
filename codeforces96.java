@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces96     //problem 1850,C. Word on the Paper
+public class codeforces96     //Problem 1850,C. Word on the Paper
 {
     public static void main(String args[]) 
     {
