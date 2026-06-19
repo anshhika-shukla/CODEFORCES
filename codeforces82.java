@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class codeforces82  //problem 1520,A. Do Not Be Distracted!
+public class codeforces82  //Problem 1520,A. Do Not Be Distracted!
  {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
