@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces88      //problem 2234,B. Palindrome, Twelve and Two Terms
+public class codeforces88      //Problem 2234,B. Palindrome, Twelve and Two Terms
 {
     public static void main(String args[]) 
     {
