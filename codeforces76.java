@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces76     //problem 2232,A. Convergence
+public class codeforces76     //Problem 2232,A. Convergence
 {
     public static void main(String args[]) 
     {
