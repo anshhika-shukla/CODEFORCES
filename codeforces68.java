@@ -1,7 +1,7 @@
 
 
 import java.util.*;
-public class codeforces68     //problem 2044,C. Hard Problem
+public class codeforces68     //Problem 2044,C. Hard Problem
 {
     public static void main(String args[]) 
     {
