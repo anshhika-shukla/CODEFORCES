@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces95      //problem 2044,A. Easy Problem
+public class codeforces95      //Problem 2044,A. Easy Problem
 {
     public static void main(String args[])
     {
