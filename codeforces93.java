@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces93     //problem 1760,A. Medium Number
+public class codeforces93     //Problem 1760,A. Medium Number
 {
     public static void main(String args[])
     {
