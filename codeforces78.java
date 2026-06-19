@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces78    //problem 2232,C1. Seating Arrangement (Easy Version)
+public class codeforces78    //Problem 2232,C1. Seating Arrangement (Easy Version)
 {
     public static void main(String args[]) 
     {
