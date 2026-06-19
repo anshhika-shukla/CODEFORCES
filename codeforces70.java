@@ -1,6 +1,6 @@
 
 import java.util.*;
-public class codeforces70     //problem 1676,H1. Maximum Crossings (Easy Version)
+public class codeforces70     //Problem 1676,H1. Maximum Crossings (Easy Version)
 {
     public static void main(String args[]) 
     {
