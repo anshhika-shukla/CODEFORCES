@@ -1,6 +1,6 @@
 
 import java.util.*;
-public class codeforces84     //problem 1692,E. Binary Deque
+public class codeforces84     //Problem 1692,E. Binary Deque
 {
     public static void main(String args[]) 
     {
