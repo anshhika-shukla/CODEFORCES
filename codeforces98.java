@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces98    //problem 959,A. Mahmoud and Ehab and the even-odd game
+public class codeforces98    //Problem 959,A. Mahmoud and Ehab and the even-odd game
 {
     public static void main(String args[]) 
     {
