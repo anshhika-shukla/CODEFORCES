@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces92     //problem 44,A. Indian Summer
+public class codeforces92     //Problem 44,A. Indian Summer
 {
     public static void main(String args[])
     {
