@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces71   //problem 1791,B. Following Directions
+public class codeforces71   //Problem 1791,B. Following Directions
 {
     public static void main(String args[])
     {
