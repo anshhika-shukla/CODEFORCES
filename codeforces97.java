@@ -1,7 +1,7 @@
 
 
 import java.util.*;
-public class codeforces97         //problem 1742,B. Increasing
+public class codeforces97         //Problem 1742,B. Increasing
 {
     public static void main(String args[]) 
     {
