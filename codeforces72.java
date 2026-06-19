@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces72   //problem 1593,A. Elections
+public class codeforces72   //Problem 1593,A. Elections
 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
