@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class codeforces85       //problem 1791,A. Codeforces Checking
+public class codeforces85       //Problem 1791,A. Codeforces Checking
 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
