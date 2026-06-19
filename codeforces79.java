@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces79  //problem 2195,B. Heapify 1
+public class codeforces79  //Problem 2195,B. Heapify 1
 {
     static boolean isPowerOfTwo(int x) 
     {
