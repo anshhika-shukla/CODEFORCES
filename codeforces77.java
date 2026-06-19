@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces77   //problem 2232,B. Cake Leveling
+public class codeforces77   //Problem 2232,B. Cake Leveling
 {
     public static void main(String args[]) 
     {
