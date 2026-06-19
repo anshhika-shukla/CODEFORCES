@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces83        //problem 339,A. Helpful Maths
+public class codeforces83        //Problem 339,A. Helpful Maths
 {
     public static void main(String args[])
     {
