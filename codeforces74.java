@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class codeforces74   //problem 1850,B. Ten Words of Wisdom
+public class codeforces74   //Problem 1850,B. Ten Words of Wisdom
  {
     public static void main(String[] args) {
         
