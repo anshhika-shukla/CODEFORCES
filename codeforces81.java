@@ -1,6 +1,6 @@
 
 import java.util.*;
-public class codeforces81     //problem 1842,B. Tenzing and Books
+public class codeforces81     //Problem 1842,B. Tenzing and Books
 {
     public static void main(String args[]) 
     {
