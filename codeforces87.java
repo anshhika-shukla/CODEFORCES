@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces87      //problem 2234,A. Euclid, Sequence and Two Numbers
+public class codeforces87      //Problem 2234,A. Euclid, Sequence and Two Numbers
 {
     public static void main(String args[]) 
     {
