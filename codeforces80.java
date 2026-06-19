@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces80     //problem 1814,A. Coins
+public class codeforces80     //Problem 1814,A. Coins
 {
     public static void main(String args[])
     {
