@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class codeforces86       //problem 233,A. Perfect Permutation
+public class codeforces86       //Problem 233,A. Perfect Permutation
  {
     public static void main(String args[]) 
 {
