@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces89          //problem 1896,A. Jagged Swaps
+public class codeforces89          //Problem 1896,A. Jagged Swaps
 {
     public static void main(String args[])
     {
