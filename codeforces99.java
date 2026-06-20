@@ -1,7 +1,7 @@
 
 
 import java.util.*;
-public class codeforces99     //problem 2237,C. Duck Surplus
+public class codeforces99     //Problem 2237,C. Duck Surplus
 {
     public static void main(String args[])
     {
