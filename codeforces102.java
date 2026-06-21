@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces102       //problem 2237,A. Destroying Towers
+public class codeforces102       //Problem 2237,A. Destroying Towers
 {
     public static void main(String args[])
     {
