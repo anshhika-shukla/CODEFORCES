@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces100    //problem 486,A. Calculating Function
+public class codeforces100    //Problem 486,A. Calculating Function
 {
     public static void main(String args[])
     {
