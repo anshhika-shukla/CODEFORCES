@@ -1,6 +1,6 @@
 
 import java.util.*;
-public class codeforces105     //problem 1294,C. Product of Three Numbers
+public class codeforces105     //Problem 1294,C. Product of Three Numbers
 {
     public static void main(String args[])
     {
