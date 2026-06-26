@@ -2,7 +2,7 @@
 import java.util.*;
 public class codeforces106 
 {
-    public static void main(String args[])            // Problem 2056A. Shape Perimeter
+    public static void main(String args[])            //Problem 2056A. Shape Perimeter
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
