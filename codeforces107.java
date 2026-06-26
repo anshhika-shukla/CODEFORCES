@@ -2,7 +2,7 @@ import java.util.*;
 
 public class codeforces107
 {
-    public static void main(String args[])                   // Problem 2094A. Trippi Troppi
+    public static void main(String args[])                   //Problem 2094A. Trippi Troppi
     {
         Scanner sc = new Scanner(System.in);
 
