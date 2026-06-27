@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class codeforces109     //problem 1311,A. Add Odd or Subtract Even
+public class codeforces109     //Problem 1311,A. Add Odd or Subtract Even
 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
