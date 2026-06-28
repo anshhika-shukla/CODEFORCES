@@ -6,7 +6,7 @@
 //  ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚══════╝ ╚═╝  ╚═╝ ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝
 
 import java.util.*;
-public class codeforces110   //Problem 2240,A. Another Popcount Problem
+public class codeforces110   // Problem 2240,A. Another Popcount Problem
 {
     public static void main(String args[]) 
     {
