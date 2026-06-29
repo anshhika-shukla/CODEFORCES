@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces111      //problem 1914,D. Three Activities
+public class codeforces111      //Problem 1914,D. Three Activities
 {
     public static void main(String args[]) 
     {
