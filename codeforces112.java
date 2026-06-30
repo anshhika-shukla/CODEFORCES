@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces112  //problem 1872,D. Plus Minus Permutation
+public class codeforces112  //Problem 1872,D. Plus Minus Permutation
 {
 
     public static long gcd(long a,long b) 
