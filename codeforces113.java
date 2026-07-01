@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces113  //problem 2241,A. Divide and Conquer
+public class codeforces113  //Problem 2241,A. Divide and Conquer
 {
     public static void main(String args[]) 
     {
