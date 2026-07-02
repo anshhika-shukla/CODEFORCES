@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces114     //problem 2241,B. Good times Good times
+public class codeforces114     //Problem 2241,B. Good times Good times
 {
     public static void main(String args[])
     {
