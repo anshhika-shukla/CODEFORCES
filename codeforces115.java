@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class codeforces115  //problem 1927,A. Make it White
+public class codeforces115  //Problem 1927,A. Make it White
  {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
