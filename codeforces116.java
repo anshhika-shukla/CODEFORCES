@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces116   //problem 2171,A. Shizuku Hoshikawa and Farm Legs
+public class codeforces116   //Problem 2171,A. Shizuku Hoshikawa and Farm Legs
 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
