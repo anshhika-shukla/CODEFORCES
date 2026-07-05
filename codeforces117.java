@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces117   //problem 1981,A. Turtle and Piggy Are Playing a Game
+public class codeforces117   //Problem 1981,A. Turtle and Piggy Are Playing a Game
 {
     public static void main(String args[]) 
     {
