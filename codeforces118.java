@@ -1,6 +1,6 @@
 
 import java.util.*;
-public class codeforces118  //problem 584,A. Olesya and Rodion
+public class codeforces118  //Problem 584,A. Olesya and Rodion
 {
     public static void main(String args[]) 
     {
